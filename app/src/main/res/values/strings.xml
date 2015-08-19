@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ClassNKK</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_all__post">All_Post</string>
+    <string name="title_activity_all_posts">AllPosts</string>
+    <string name="title_activity_filters__page">Filters_Page</string>
+    <string name="title_activity_all_posts__page">AllPosts_Page</string>
+    <string name="title_activity_filter__page">Filter_Page</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc">none</string>
+
+
+</resources>

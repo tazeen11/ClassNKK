@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ColorPrimary">#00897B</color>
+    <color name="ColorPrimaryDark">#00695C</color>
+    <color name="tabsScrollColor">#004D40</color>
+    <color name="swype_1">#ff92ff2f</color>
+    <color name="swype_2">#ffffbc00</color>
+    <color name="swype_3">#ff12ffa0</color>
+    <color name="swype_4">#ffff6724</color>
+    <color name="color_preloader_start">#000000</color>
+    <color name="color_preloader_center">#000000</color>
+    <color name="color_preloader_end">#ff56a9c7</color>
+
+</resources>
